@@ -7,9 +7,9 @@
 </div>
 -->
 
-<a href="https://github.com/14Sandee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=14Sandee&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14Sandee&theme=dark&layout=compact" />
+<a href="https://github.com/pradyumndwivedi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradyumndwivedi&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumndwivedi&theme=dark&layout=compact" />
 </a>
 
 
