@@ -1,15 +1,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Frappe and Node.JS...
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradyumndwivedi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="stats graph"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradyumndwivedi&locale=en&hide_title=false&layout=compact&card&theme=dark&hide_border=false" alt="languages graph"  />
-</div>
-
-<!-- <a href="https://github.com/14Sandee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=14Sandee&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=14Sandee&theme=dark&layout=compact" />
-</a> -->
+<a href="https://github.com/pradyumndwivedi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradyumndwivedi&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumndwivedi&theme=dark&layout=compact" />
+</a>
 
 
 
